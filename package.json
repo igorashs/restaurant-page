@@ -1,0 +1,24 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "Project from The Odin Project's curriculum",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorashs/restaurant-page.git"
+  },
+  "author": "igorash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorashs/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/igorashs/restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8"
+  }
+}
