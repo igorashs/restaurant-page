@@ -8,7 +8,10 @@ function setBtnActive(id) {
 
 function loadContact() {
   const content = document.getElementById('tab-content');
+  content.classList.add('flex-lay');
+  content.classList.remove('grid-lay');
   content.textContent = 'contact';
+
   setBtnActive('contact');
 }
 

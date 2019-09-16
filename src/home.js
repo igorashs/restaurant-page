@@ -27,6 +27,9 @@ function setBtnActive(id) {
 
 function loadHome() {
   const content = document.getElementById('tab-content');
+  content.classList.add('flex-lay');
+  content.classList.remove('grid-lay');
+
   content.textContent = '';
 
   const aboutSection = createAboutSection();
