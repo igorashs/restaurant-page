@@ -201,3 +201,61 @@ body {
 .food .description h3 {
   font-size: 22px;
 }
+
+/* responsive */
+@media only screen and (max-width: 1480px) {
+  .grid-lay {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media only screen and (max-width: 940px) {
+  .food {
+    width: 440px;
+    height: 220px;
+  }
+  .food .description h3 {
+    font-size: 18px;
+  }
+  .food .description h2 {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 660px) {
+  #nav {
+    height: 240px;
+    grid-template-columns: 1fr;
+    grid-column-gap: 0;
+    grid-row-gap: 4px;
+  }
+  .tab span {
+    font-size: 20px;
+  }
+  .tab:hover span,
+  .tab:focus span {
+    font-size: 20px;
+  }
+  #header h1 {
+    font-size: 50px;
+  }
+}
+
+@media only screen and (max-width: 560px) {
+  #nav {
+    font-size: 20px;
+  }
+  .food {
+    width: 300px;
+    height: 160px;
+  }
+  .food .description h3 {
+    font-size: 14px;
+  }
+  .food .description h2 {
+    font-size: 12px;
+  }
+  #header h1 {
+    font-size: 36px;
+  }
+}

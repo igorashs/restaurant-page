@@ -65,7 +65,7 @@ function loadMenu() {
     ),
     createFood(
       '../dist/imgs/foods/lemon-tart.jpg',
-      'lemon -tart',
+      'lemon tart',
       '6CR',
       'lemon tart'
     ),
