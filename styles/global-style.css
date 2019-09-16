@@ -1,0 +1,13 @@
+@font-face {
+  font-family: sw;
+  src: url(../fonts/sw.ttf);
+}
+html {
+  font-family: sw;
+}
+body {
+  background-color: rgb(255, 194, 15);
+  background-image: url('../imgs/vader-spoon.jpg');
+  background-repeat: no-repeat;
+  background-size: 80%;
+}
