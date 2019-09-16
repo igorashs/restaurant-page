@@ -40,49 +40,49 @@ function loadMenu() {
 
   const foods = [
     createFood(
-      '../../dist/imgs/foods/ackbar-ice-cream.jpg',
+      'https://starwarsblog.starwars.com/wp-content/uploads/2018/07/ackbar-ice-cream-tall.jpg',
       'acbar ice Cream',
       '10CR',
       'acbar ice cream'
     ),
     createFood(
-      '../../dist/imgs/foods/corellian-coffee.jpg',
+      'https://starwarsblog.starwars.com/wp-content/uploads/2019/06/corellian-coffee-tall.jpg',
       'corellian coffee',
       '4CR',
       'corellian coffee'
     ),
     createFood(
-      '../../dist/imgs/foods/darth-maul-quinoa.jpg',
+      'https://starwarsblog.starwars.com/wp-content/uploads/2019/03/darth-maul-quinoa-tall.jpg',
       'darth maul quinoa',
       '20CR',
       'darth maul quinoa'
     ),
     createFood(
-      '../../dist/imgs/foods/ewok-cookies.jpg',
+      'https://starwarsblog.starwars.com/wp-content/uploads/2018/10/ewok-cookies-tall.jpg',
       'ewok cookies',
       '4CR',
       'ewok cookies'
     ),
     createFood(
-      '../../dist/imgs/foods/lemon-tart.jpg',
+      'https://starwarsblog.starwars.com/wp-content/uploads/2018/12/lemon-tart-tall.jpg',
       'lemon tart',
       '6CR',
       'lemon tart'
     ),
     createFood(
-      '../../dist/imgs/foods/porg-puffs.jpg',
+      'https://starwarsblog.starwars.com/wp-content/uploads/2018/03/porg-puffs-tall.jpg',
       'porg puffs',
       '12CR',
       'porg puffs'
     ),
     createFood(
-      '../../dist/imgs/foods/sith-trooper-root-beer.jpg',
+      'https://starwarsblog.starwars.com/wp-content/uploads/2019/08/sith-trooper-float-tall-b.jpg',
       'sith trooper root beer',
       '9CR',
       'sith trooper root beer'
     ),
     createFood(
-      '../../dist/imgs/foods/vader-peanut-butter-blossoms.jpg',
+      'https://starwarsblog.starwars.com/wp-content/uploads/2019/06/vader-peanut-butter-blossoms-tall.jpg',
       'vader peanut butter blossoms',
       '20CR',
       'vader peanut butter blossoms'
