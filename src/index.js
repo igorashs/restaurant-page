@@ -1,7 +1,7 @@
-import loadPage from './initial-page-load';
-import loadHome from './home';
-import loadMenu from './menu';
-import loadContact from './contact';
+import loadPage from './modules/initial-page-load';
+import loadHome from './modules/home';
+import loadMenu from './modules/menu';
+import loadContact from './modules/contact';
 
 init();
 

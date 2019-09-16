@@ -40,49 +40,49 @@ function loadMenu() {
 
   const foods = [
     createFood(
-      '../dist/imgs/foods/ackbar-ice-cream.jpg',
+      '../../dist/imgs/foods/ackbar-ice-cream.jpg',
       'acbar ice Cream',
       '10CR',
       'acbar ice cream'
     ),
     createFood(
-      '../dist/imgs/foods/corellian-coffee.jpg',
+      '../../dist/imgs/foods/corellian-coffee.jpg',
       'corellian coffee',
       '4CR',
       'corellian coffee'
     ),
     createFood(
-      '../dist/imgs/foods/darth-maul-quinoa.jpg',
+      '../../dist/imgs/foods/darth-maul-quinoa.jpg',
       'darth maul quinoa',
       '20CR',
       'darth maul quinoa'
     ),
     createFood(
-      '../dist/imgs/foods/ewok-cookies.jpg',
+      '../../dist/imgs/foods/ewok-cookies.jpg',
       'ewok cookies',
       '4CR',
       'ewok cookies'
     ),
     createFood(
-      '../dist/imgs/foods/lemon-tart.jpg',
+      '../../dist/imgs/foods/lemon-tart.jpg',
       'lemon tart',
       '6CR',
       'lemon tart'
     ),
     createFood(
-      '../dist/imgs/foods/porg-puffs.jpg',
+      '../../dist/imgs/foods/porg-puffs.jpg',
       'porg puffs',
       '12CR',
       'porg puffs'
     ),
     createFood(
-      '../dist/imgs/foods/sith-trooper-root-beer.jpg',
+      '../../dist/imgs/foods/sith-trooper-root-beer.jpg',
       'sith trooper root beer',
       '9CR',
       'sith trooper root beer'
     ),
     createFood(
-      '../dist/imgs/foods/vader-peanut-butter-blossoms.jpg',
+      '../../dist/imgs/foods/vader-peanut-butter-blossoms.jpg',
       'vader peanut butter blossoms',
       '20CR',
       'vader peanut butter blossoms'
