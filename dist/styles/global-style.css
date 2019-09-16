@@ -118,6 +118,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  letter-spacing: 0.2rem;
 }
 .section-title {
   font-size: 36px;
