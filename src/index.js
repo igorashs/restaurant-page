@@ -1,1 +1,3 @@
-console.log('Hello There');
+import loadPage from './initial-page-load';
+
+loadPage();
