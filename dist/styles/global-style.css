@@ -63,13 +63,13 @@ body {
 }
 .tab:hover,
 .tab:focus {
-  background-color: rgb(122, 0, 0);
+  background-color: rgb(26, 112, 194);
 }
 
 .tab:hover span,
 .tab:focus span {
-  color: rgb(32, 116, 195);
-  text-shadow: 1px 4px 10px rgba(255, 255, 255, 0.424);
+  color: rgb(39, 243, 64);
+  text-shadow: 0px 0px 12px rgba(41, 41, 41, 0.4);
   font-size: 32px;
 }
 
@@ -120,4 +120,14 @@ body {
   letter-spacing: 0.1rem;
   text-shadow: 0px 4px 20px rgb(80, 16, 16);
   background-color: #000;
+}
+
+/* tab selection */
+.active span {
+  color: rgb(39, 144, 243) !important;
+  text-shadow: 0px 0px 12px rgba(255, 255, 255, 0.4) !important;
+  font-size: 32px;
+}
+.active {
+  background-color: rgb(122, 0, 0) !important;
 }
